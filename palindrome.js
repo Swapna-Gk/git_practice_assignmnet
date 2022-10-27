@@ -4,8 +4,8 @@ function checkPalindrome(N, str) {
         bag+=str[i];
         }
         if(bag==str){
-            console.log(" ");
+            console.log("Yes");
         }else{
-          console.log(" ");
+          console.log("No");
         }
 }
